@@ -1,6 +1,6 @@
-Teachers Rating Dataset Analysis
+## Teachers Rating Dataset Analysis
 
-## 🧭 Objective
+## Objective
 The aim of this practical is to analyze a dataset of teachers’ ratings using Python libraries such as **NumPy**, **pandas**, and **Matplotlib**.  
 The task includes statistical analysis, visualization, and interpretation of variables related to teaching evaluation.
 
