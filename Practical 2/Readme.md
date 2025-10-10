@@ -6,7 +6,7 @@ The task includes statistical analysis, visualization, and interpretation of var
 
 ---
 
-## 📊 Dataset Description
+## Dataset Description
 
 The dataset contains information about **university instructors** and their teaching evaluation ratings.
 
@@ -21,10 +21,10 @@ The dataset contains information about **university instructors** and their teac
 | **Age** | Instructor’s age |
 | **Division** | Course type: “Lower” or “Upper” Division |
 
-> 🧩 *Note: This is a synthetic dataset designed for statistical analysis practice.*
+> *Note: This is a synthetic dataset designed for statistical analysis practice.*
 
 ---
-## ⚙️ Tools Used
+## Tools Used
 
 Python 3.x
 
