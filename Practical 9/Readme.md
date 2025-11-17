@@ -1,8 +1,3 @@
-Sure! Here is a clean, professional *README.md* for your KNN Practical using the Iris dataset.
-You can copy-paste it directly into a README.md file.
-
----
-
 # 🌸 *KNN Classification on Iris Dataset — Practical*
 
 This practical demonstrates how to apply the *K-Nearest Neighbors (KNN)* machine learning algorithm on the *Iris flower dataset*.
@@ -142,12 +137,3 @@ It highlights the importance of:
 * Hyperparameter tuning
 * Visualization
 
----
-
-If you want, I can also generate:
-
-✅ A Jupyter Notebook version
-✅ A formatted PDF report
-✅ Screenshots for documentation
-
-Just let me know!
